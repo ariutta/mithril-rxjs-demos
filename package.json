@@ -1,0 +1,31 @@
+{
+  "name": "mithril-rxjs-demos",
+  "version": "0.0.0",
+  "description": "Testing out integration of mithril and Rx.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ariutta/mithril-rxjs-demos.git"
+  },
+  "keywords": [
+    "mithril",
+    "rx",
+    "rxjs"
+  ],
+  "author": "Anders Riutta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ariutta/mithril-rxjs-demos/issues"
+  },
+  "homepage": "https://github.com/ariutta/mithril-rxjs-demos",
+  "dependencies": {
+    "mithril": "^0.2.0",
+    "rx": "^2.5.3"
+  },
+  "devDependencies": {
+    "http-server": "^0.8.0"
+  }
+}
